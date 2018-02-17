@@ -1,0 +1,13 @@
+{
+  "autoload":{
+    "psr-4":{
+      "Vendas\\": "Vendas/"
+    },
+    "require":{
+      "twbs/bootstrap":"3.0.0"
+    }
+  },
+  "require": {
+    "twbs/bootstrap": "3.0.0"
+  }
+}
